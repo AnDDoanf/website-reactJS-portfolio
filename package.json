@@ -2,7 +2,7 @@
   "name": "prj3_films",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anddoanf.github.io/portfolio_website/",
+  "homepage": "https://anddoanf.github.io/portfolio_website",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
