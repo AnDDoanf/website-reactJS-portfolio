@@ -19,7 +19,7 @@ const About = () => {
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor est sit amet odio posuere, quis pellentesque ante gravida. Vestibulum eu mauris in lectus faucibus tristique sed a nisl. Sed aliquam sit amet libero at vulputate. Donec lacinia arcu sed pellentesque porta. Etiam eu dignissim libero. Nulla venenatis nunc eu tincidunt dignissim.
                 </p>
 
-                <a download="" href={CV} className="button button--flex">
+                <a download="CV_Doan_Thuan_An" href={CV} className="button button--flex">
                     Download CV
                     <svg
                 class="button__icon"
